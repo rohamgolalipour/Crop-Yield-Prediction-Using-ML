@@ -40,8 +40,6 @@ Overall, this project demonstrates a complete machine learning workflow, includi
 | --------------------------------------- | ---------------------------------------------- |
 | ![Empty GUI](screenshots/gui_empty.png) | ![GUI with result](screenshots/gui_result.png) |
 
-```
-
 ## 🚀 Usage
 
 1. **Train the models** (optional — pre-trained `.joblib` files are already included):
@@ -62,5 +60,4 @@ Overall, this project demonstrates a complete machine learning workflow, includi
 
 - The dataset used in this project is **synthetically generated** for demonstration purposes and does not reflect real-world agricultural measurements.
 - This project was built as a learning exercise to practice an end-to-end machine learning workflow: data generation → preprocessing → model training → evaluation → persistence → deployment.
-
-```
+- 
