@@ -60,4 +60,3 @@ Overall, this project demonstrates a complete machine learning workflow, includi
 
 - The dataset used in this project is **synthetically generated** for demonstration purposes and does not reflect real-world agricultural measurements.
 - This project was built as a learning exercise to practice an end-to-end machine learning workflow: data generation → preprocessing → model training → evaluation → persistence → deployment.
-- 
